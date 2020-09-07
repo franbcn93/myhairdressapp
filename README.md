@@ -1,5 +1,5 @@
 # myhairdressapp
-
+English:
 Mobile application which it is about a program to make reservations in hairdressers, 
 where as much as clients and employers can look at a calendar and keep the appointments they 
 want to select.
@@ -10,6 +10,7 @@ It is a personal project which I did to achieve more notions about Android.
 
 
 
+Spanish:
 
 Aplicación para movil en el que trata de un programa para poder hacer reservas en una peluquería, 
 donde tanto cliente como empresario pueden mirar un calendario y de esta manera conservar las 
